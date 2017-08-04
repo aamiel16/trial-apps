@@ -1,0 +1,9 @@
+<div className="App-header">
+  <img src={logo} className="App-logo" alt="logo" />
+  <h2>DB Sync Running</h2>
+  <div className="ui basic segment text container">
+    <div className="ui form field">
+      <textarea name="logs" id="text-log" rows="20"></textarea>
+    </div>
+  </div>
+</div>
